@@ -1,0 +1,24 @@
+.color-primary {
+    color: red
+} 
+
+h1{
+    color:aquamarine;
+    background-color:red;
+    text-align: center;
+    font-size:100px;
+    font-weight: bold;
+    font-family: 'segae ui',tahoma,geneva,verdana,sans-serif;
+    border: yellow 10px solid;
+    opacity: 0.5;
+    box-shadow: 5px 5px 5px black;
+}
+
+h1:hover{
+    color: black;
+    background-color: aquamarine;
+}
+
+body{
+    background-color: white;
+}
